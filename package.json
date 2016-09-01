@@ -1,0 +1,27 @@
+{
+  "name": "ideviceinstaller-js",
+  "version": "1.0.0",
+  "description": "ideviceinstaller-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirsky/ideviceinstaller-js.git"
+  },
+  "keywords": [
+    "ideviceinstaller",
+    "ios",
+    "node"
+  ],
+  "author": "Nir Hadassi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nirsky/ideviceinstaller-js/issues"
+  },
+  "homepage": "https://github.com/Nirsky/ideviceinstaller-js#readme",
+  "dependencies": {
+    "bluebird": "^3.4.5"
+  }
+}
