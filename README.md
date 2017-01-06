@@ -33,5 +33,5 @@ ideviceinstaller.uninstallApp('myapp.bundle.id','my-device-udid')
 * ideviceinstaller.reinstallApp
 Will try to uninstall first then install
 ```javascript
-ideviceinstaller.installApp('path/to/appFile.app/ipa','myapp.bundle.id','my-device-udid')
+ideviceinstaller.reinstallApp('path/to/appFile.app/ipa','myapp.bundle.id','my-device-udid')
 ```
