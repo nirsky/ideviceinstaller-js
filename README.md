@@ -2,7 +2,7 @@
 NodeJs wrapper for ideviceinstaller.
 For use on OSX.
 
-##Getting Started
+## Getting Started
 First, make sure you have ideviceinstaller installed, if you don't you can get it with brew, simply run in you Terminal:
 ```
 brew install ideviceinstaller
@@ -12,13 +12,13 @@ Install package with npm:
 npm install ideviceinstaller-js --save
 ```
 
-##Usage
+## Usage
 import the module:
 ```
 var ideviceinstaller = require('ideviceinstaller-js')
 ```
 
-Note: Providing the device udid is optional.
+Note: Providing the device uuid is optional.
 
 * ideviceinstaller.installApp
 ```javascript
